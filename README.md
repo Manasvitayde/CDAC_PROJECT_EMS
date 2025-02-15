@@ -46,7 +46,7 @@ EMS provides comprehensive workforce management through:
 ## Project Structure
 
 ### Backend (server/)
-
+```
 ├── controllers/           
 │   ├── authController.js      # Authentication logic
 │   ├── dashboardController.js # Dashboard statistics
@@ -78,10 +78,10 @@ EMS provides comprehensive workforce management through:
 ├── index.js          
 ├── package.json     
 └── userSeed.js     
-
+```
 
 ### Web Frontend (frontend/)
-
+```
 ├── src/
 │   ├── assets/         # Static resources
 │   ├── components/     # React components
@@ -114,10 +114,10 @@ EMS provides comprehensive workforce management through:
 │       ├── App.jsx
 │       ├── index.css
 │       └── main.jsx
-
+```
 
 ### Mobile App (mobile/)
-
+```
 ├── src/
 │   ├── components/    
 │   │   ├── common/
@@ -134,7 +134,7 @@ EMS provides comprehensive workforce management through:
 │   ├── services/     
 │   │   └── api.js
 │   └── utils/        
-
+```
 
 ## Setup & Installation
 
